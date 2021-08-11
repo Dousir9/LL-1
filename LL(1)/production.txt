@@ -1,0 +1,8 @@
+E TG
+G +TG
+G null
+T FH
+H *FH
+H null
+F i
+F (E)
